@@ -37,3 +37,22 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Prevent content from overflowing the page horizontally */
+.page,
+.page__inner-wrap,
+.page__content {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.page__content {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.page__content img,
+.page__content iframe {
+  max-width: 100%;
+  height: auto;
+}
