@@ -8,26 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /
+
+  - title: "Research"
+    url: /research/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+    url: /teaching/
+
+  - title: "Modeling"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Phillip_Yoon_CV.pdf
