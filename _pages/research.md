@@ -29,7 +29,7 @@ Five Variables.”
 During the 2026 NSF REU/RET in Mathematics at California State
 University, Chico, I worked under the supervision of Guillermo
 Alesandroni on the dependence and independence of Betti numbers of monomial ideals on
-the characteristic of the base field. With Noah Ripke, I proved that
+the characteristic of the base field. With Noah Ripke, we proved that
 the multigraded, graded, and total Betti numbers of every monomial ideal
 in five variables are independent of the characteristic. Our approach
 uses reductions to squarefree monomial ideals, Hochster's formula, and
