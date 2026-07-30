@@ -122,11 +122,13 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.25rem;
   align-items: start;
+  width: 100%;
   margin: 1.25rem 0 3.5rem;
 }
 
 .modeling-grid figure,
 .modeling-feature figure {
+  min-width: 0;
   margin: 0;
 }
 
@@ -135,39 +137,51 @@
   display: block;
 }
 
-.modeling-grid img,
-.modeling-feature img {
+/* Normal two-image sections */
+.modeling-grid img {
   display: block;
   width: 100%;
   height: auto;
   border-radius: 3px;
 }
 
-.modeling-video {
+/* Parsons: video and still use matching vertical boxes */
+.modeling-feature > .modeling-video,
+.modeling-feature > figure {
   width: 100%;
+  aspect-ratio: 9 / 16;
+  overflow: hidden;
+  border-radius: 3px;
+  background: #000;
 }
 
-.modeling-video iframe {
+.modeling-feature iframe,
+.modeling-feature figure img {
   display: block;
   width: 100%;
   height: 100%;
-  border-radius: 3px;
+  border: 0;
+  object-fit: cover;
 }
 
-.modeling-video--vertical {
-  aspect-ratio: 9 / 16;
-}
-
-/* Digitals: 2 × 2 grid */
+/* Digitals: 2 × 2 */
 .modeling-grid.modeling-grid--digitals {
-  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   max-width: 850px;
-  gap: 1.25rem;
 }
 
+/* Stack ordinary sections on narrow screens */
 @media screen and (max-width: 700px) {
+  .modeling-grid,
+  .modeling-feature {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  /* Keep digitals 2 × 2 on mobile */
   .modeling-grid.modeling-grid--digitals {
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.75rem;
   }
 }
