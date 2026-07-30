@@ -19,6 +19,7 @@ Joint work with Noah Ripke.
 
 Hunter Mathematics and Statistics Colloquium: Student Research
 Presentations, Hunter College, New York, NY, April 2026.
+Based on ongoing joint work with Be’eri Greenfeld on growth phenomena in associative and monomial algebras.
 
 [Slides](/files/presentations/hunter-2026-small-growth.pdf)
 
