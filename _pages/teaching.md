@@ -31,7 +31,7 @@ Instructor of record for College Algebra and Trigonometry
 
 Taught AP Calculus AB and Precalculus.
 
-### Trinity School
+### Trinity School NYC 
 
 **Mathematics Teaching Fellow, 2022–2024**
 
