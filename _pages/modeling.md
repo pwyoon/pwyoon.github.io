@@ -152,18 +152,18 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss24/01.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss24/01.jpg' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss24/01.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss24/01.jpg' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS24, first photograph"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss24/02.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss24/02.jpg' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss24/02.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss24/02.jpg' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS24, second photograph"
         loading="lazy">
     </a>
