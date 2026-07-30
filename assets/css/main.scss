@@ -102,3 +102,13 @@
     margin: 0;
   }
 }
+
+@media screen and (max-width: 63.99em) {
+  .sidebar .author__urls-wrapper button {
+    opacity: 1;
+    color: var(--global-text-color);
+    border-color: var(--global-border-color);
+    background-color: transparent;
+    font-weight: 500;
+  }
+}
