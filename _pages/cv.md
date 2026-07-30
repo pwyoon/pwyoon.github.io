@@ -3,8 +3,6 @@ layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-classes:
-  - cv-page
 ---
 
 <p class="cv-actions">
@@ -19,7 +17,7 @@ classes:
 <div class="cv-embed">
   <iframe
     class="cv-frame"
-    src="{{ '/files/Phillip_Yoon_CV.pdf' | relative_url }}#view=FitH"
+    src="{{ '/files/Phillip_Yoon_CV.pdf' | relative_url }}#page=1&view=FitH"
     title="Phillip W. Yoon curriculum vitae">
   </iframe>
 </div>
