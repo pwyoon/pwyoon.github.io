@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.A. student in mathematics at Hunter College, City University
+I am an M.A. student in Mathematics at Hunter College, City University
 of New York. I previously earned a B.A. in Mathematics and Philosophy from Johns Hopkins University in 2021 and an M.S.Ed. from the University of Pennsylvania in 2024. Before and during my graduate studies, I taught mathematics at the
 secondary-school and college levels. More information is available on
 my [Teaching](/teaching/) page.
