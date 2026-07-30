@@ -60,18 +60,18 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/01.WEBP' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/01.WEBP' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS26, first photograph"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/02.WEBP' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/02.WEBP' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS26, second photograph"
         loading="lazy">
     </a>
