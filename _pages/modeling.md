@@ -2,7 +2,7 @@
 layout: single
 title: "Modeling"
 permalink: /modeling/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
