@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-Selected runway work, fashion imagery, and digitals.
+How I got to start modeling is a long story. In the meantime, please enjoy this selection of runway work, fashion imagery, and digitals :)
 
 
 ## Parsons BFA Fashion Show — Class of 2026 Graduation
@@ -38,18 +38,18 @@ Selected runway work, fashion imagery, and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw26/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw26/01.JPG' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw26/01.jpg' | relative_url }}"
+        src="{{ '/images/modeling/jack-sivan-fw26/01.JPG' | relative_url }}"
         alt="Phillip Yoon walking for Jack Sivan FW26, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw26/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw26/02.JPG' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw26/02.jpg' | relative_url }}"
+        src="{{ '/images/modeling/jack-sivan-fw26/02.JPG' | relative_url }}"
         alt="Phillip Yoon walking for Jack Sivan FW26, look two"
         loading="lazy">
     </a>
@@ -61,18 +61,18 @@ Selected runway work, fashion imagery, and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/01.WEBP' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/01.WEBP' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS26, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/02.WEBP' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/02.WEBP' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS26, look two"
         loading="lazy">
     </a>
