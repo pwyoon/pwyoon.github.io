@@ -44,17 +44,7 @@ seven-variable case.
 
 ### Growth of algebras and combinatorics on words
 
-At Hunter College, I have worked with Be'eri Greenfeld on growth
-phenomena in associative and monomial algebras. I have studied
-Gelfand--Kirillov dimension, Bergman's gap theorem, hereditary
-languages, and the relationship between the combinatorics of infinite
-words and the growth of the corresponding monomial algebras. A central
-theme is how restrictions on allowed subwords and their possible
-extensions constrain the number of words of each length and therefore
-the growth of the algebra. This work has involved arguments using
-König's lemma, extension graphs, and combinatorial constructions of
-languages with prescribed growth properties. I presented part of this
-work in Hunter College's student research colloquium.
+In ongoing joint work with Be’eri Greenfeld, I study growth phenomena in associative and monomial algebras and their connections with combinatorics on words. Our work concerns Gelfand–Kirillov dimension, hereditary languages, extension properties of infinite words, and the ways in which restrictions on allowed subwords determine the growth and ideal structure of the corresponding monomial algebras. The project uses combinatorial constructions of languages with prescribed growth properties. It has led to original results that we are developing into a manuscript. I presented part of this work in Hunter College’s student research colloquium in April 2026.
 
 ### Solvable lattice models and quantum superalgebras
 
