@@ -9,7 +9,7 @@ author_profile: true
 
 ### Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables
 
-**Invited talk.** Route 81 Conference on Commutative Algebra and
+**(Upcoming) Invited talk.** Route 81 Conference on Commutative Algebra and
 Algebraic Geometry, Syracuse University, Syracuse, NY, September 26, 2026.  
 Joint work with Noah Ripke.
 
