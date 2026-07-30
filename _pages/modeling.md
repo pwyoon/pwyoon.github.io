@@ -18,7 +18,7 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
     preload="metadata"
     poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
     <source
-      src="{{ '/files/modeling/parsons-bfa-2026-walk.mp4' | relative_url }}"
+      src="{{ '/files/modeling/parsons-bfa-2026-walk.MOV' | relative_url }}"
       type="video/mp4">
     Your browser does not support embedded video.
   </video>
