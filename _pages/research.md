@@ -66,5 +66,4 @@ relations arising from Yang--Baxter-type equations. I worked on
 rank-three examples, vanishing conditions related to Bruhat order, and
 explicit computations used to test and understand the proposed
 recurrences. The project combined algebraic combinatorics,
-representation theory, and statistical-mechanical models. I co-presented
-this work at the 2026 Joint Mathematics Meetings with the research group.
+representation theory, and statistical-mechanical models. I presented this work jointly with Joey (Yizhou) Chen, Daniel Kumm, and Ioana Milea at the 2026 Joint Mathematics Meetings.
