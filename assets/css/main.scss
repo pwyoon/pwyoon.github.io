@@ -61,7 +61,7 @@
 @media screen and (max-width: 63.99em) {
   .sidebar div[itemscope][itemtype="http://schema.org/Person"] {
     display: grid;
-    grid-template-columns: 112px minmax(0, 1fr);
+    grid-template-columns: 124px minmax(0, 1fr);
     column-gap: 16px;
     row-gap: 8px;
     align-items: start;
@@ -69,16 +69,16 @@
 
   .sidebar div.author__avatar {
     display: block;
-    width: 112px;
+    width: 124px;
     grid-column: 1;
     grid-row: 1 / span 2;
   }
 
   .sidebar div.author__avatar > img {
     display: block;
-    width: 112px;
+    width: 124px;
     max-width: none;
-    height: 140px;
+    height: 155px;
     object-fit: cover;
     object-position: center 30%;
     border-radius: 4px;
