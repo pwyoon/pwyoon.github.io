@@ -330,16 +330,16 @@
 /* Larger author portrait on phones and tablets */
 @media screen and (max-width: 63.99em) {
   .sidebar div.author__avatar {
-    width: 82px;
-    min-width: 82px;
+    width: 94px;
+    min-width: 94px;
     padding-right: 10px;
   }
 
   .sidebar div.author__avatar > img {
     display: block;
-    width: 72px;
-    max-width: 72px;
-    height: 90px;
+    width: 84px;
+max-width: 84px;
+height: 105px;
     object-fit: cover;
     object-position: center 30%;
     border: 1px solid var(--global-border-color);
