@@ -18,7 +18,7 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
       controls
       playsinline
       preload="metadata"
-      poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+      poster="{{ '/images/modeling/parsons-bfa-2026/02.png' | relative_url }}">
 
       <source
         src="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.mp4' | relative_url }}"
