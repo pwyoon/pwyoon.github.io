@@ -18,7 +18,7 @@ During summer 2026, I participated in the NSF REU/RET in Mathematics at
 California State University, Chico, where I worked with Guillermo
 Alesandroni. This work resulted in a joint paper with Noah Ripke on
 characteristic independence of Betti numbers of monomial ideals in five
-variables, where we proved that the multigraded, graded, and total Betti numbers of monomial ideals in five variables are independent of the characteristic of the base field. This work resulted in a paper in the *Journal of Pure and Applied Algebra*.
+variables, where we proved that the multigraded, graded, and total Betti numbers of monomial ideals in five variables are independent of the characteristic of the base field. We published the results in the *Journal of Pure and Applied Algebra*.
 
 I have also worked with Be’eri Greenfeld on the growth of associative and monomial algebras, Gelfand–Kirillov dimension, and problems arising from combinatorics on words. Through Polymath Jr., I worked on solvable lattice models related to quantum superalgebras under the mentorship of Ben Brubaker.
 
