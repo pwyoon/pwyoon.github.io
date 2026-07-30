@@ -14,7 +14,7 @@ representation theory, and solvable lattice models.
 
 ## Publication
 
-**Noah Ripke and Phillip Yoon.**
+Noah Ripke and **Phillip Yoon.**
 “Characteristic Independence of Betti Numbers of Monomial Ideals in
 Five Variables.”
 *Journal of Pure and Applied Algebra* **230** (2026), 108354.
