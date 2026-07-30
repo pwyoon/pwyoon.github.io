@@ -25,7 +25,7 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
 type="video/mp4">
 
       Your browser does not support this video.
-      <a href="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}">
+      <a href="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.mp4' | relative_url }}">
         Open the video directly.
       </a>
     </video>
