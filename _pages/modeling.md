@@ -18,7 +18,7 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
       controls
       playsinline
       preload="metadata"
-      poster="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}">
+      poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
 
       <source
         src="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}"
@@ -32,9 +32,9 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
   </div>
 
   <figure>
-    <a href="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}">
+    <a href="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
       <img
-        src="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}"
+        src="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}"
         alt="Phillip Yoon walking in the Parsons BFA Fashion Show">
     </a>
   </figure>
