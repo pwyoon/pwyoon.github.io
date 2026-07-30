@@ -158,20 +158,16 @@
   aspect-ratio: 9 / 16;
 }
 
-.modeling-grid--digitals {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+/* Digitals: 2 × 2 grid */
+.modeling-grid.modeling-grid--digitals {
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   max-width: 850px;
+  gap: 1.25rem;
 }
 
 @media screen and (max-width: 700px) {
-  .modeling-grid--digitals {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.75rem;
-  }
-}
-
-  .modeling-grid--digitals {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .modeling-grid.modeling-grid--digitals {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
     gap: 0.75rem;
   }
 }
