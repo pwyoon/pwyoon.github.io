@@ -11,17 +11,18 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
 
 ## Parsons BFA Fashion Show — Class of 2026 Graduation
 
-<div class="modeling-feature">
-  <div class="modeling-video modeling-video--vertical">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/YOUTUBE_VIDEO_ID"
-      title="Phillip Yoon walking in the Parsons BFA Fashion Show"
-      loading="lazy"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+<div class="modeling-video">
+  <video
+    controls
+    playsinline
+    preload="metadata"
+    poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+    <source
+      src="{{ '/files/modeling/parsons-bfa-2026-walk.mp4' | relative_url }}"
+      type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</div>
 
   <figure>
     <a href="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
