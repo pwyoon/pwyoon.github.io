@@ -24,5 +24,5 @@ I have also worked with Be’eri Greenfeld on the growth of associative and mono
 
 Outside of academics, I like to spend my free time hiking, running, playing board games, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or modeling. 
 
-E-mail: phillip.yoon58@login.cuny.edu
+E-mail: phillip.yoon58@login.cuny.edu\
 Pronouns: he/him
