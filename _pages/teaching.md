@@ -10,7 +10,7 @@ mathematics at the college, secondary-school, and middle-school levels.
 
 ## College Teaching
 
-### Hunter College, City University of New York
+### Hunter College, CUNY
 
 **Adjunct Lecturer, Fall 2026**
 
