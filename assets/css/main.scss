@@ -56,3 +56,49 @@
   max-width: 100%;
   height: auto;
 }
+
+/* Larger, better-arranged mobile author profile */
+@media screen and (max-width: 63.99em) {
+  .sidebar div[itemscope][itemtype="http://schema.org/Person"] {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    column-gap: 16px;
+    row-gap: 8px;
+    align-items: start;
+  }
+
+  .sidebar div.author__avatar {
+    display: block;
+    width: 112px;
+    grid-column: 1;
+    grid-row: 1 / span 2;
+  }
+
+  .sidebar div.author__avatar > img {
+    display: block;
+    width: 112px;
+    max-width: none;
+    height: 140px;
+    object-fit: cover;
+    object-position: center 30%;
+    border-radius: 4px;
+  }
+
+  .sidebar .author__content {
+    display: block;
+    grid-column: 2;
+    grid-row: 1;
+    padding: 0;
+  }
+
+  .sidebar .author__urls-wrapper {
+    display: block;
+    grid-column: 2;
+    grid-row: 2;
+    margin: 0;
+  }
+
+  .sidebar .author__urls-wrapper button {
+    margin: 0;
+  }
+}
