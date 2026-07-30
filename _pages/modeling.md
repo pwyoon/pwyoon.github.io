@@ -11,18 +11,20 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
 
 ## Parsons BFA Fashion Show — Class of 2026 Graduation
 
-<div class="modeling-video">
-  <video
-    controls
-    playsinline
-    preload="metadata"
-    poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
-    <source
-      src="{{ '/files/modeling/parsons-bfa-2026-walk.MOV' | relative_url }}"
-      type="video/mp4">
-    Your browser does not support embedded video.
-  </video>
-</div>
+<div class="modeling-feature">
+
+  <div class="modeling-video">
+    <video
+      controls
+      playsinline
+      preload="metadata"
+      poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+      <source
+        src="{{ '/files/modeling/parsons-bfa-2026-walk.MOV' | relative_url }}"
+        type="video/quicktime">
+      Your browser does not support embedded video.
+    </video>
+  </div>
 
   <figure>
     <a href="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
@@ -31,6 +33,7 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
         alt="Phillip Yoon walking in the Parsons BFA Fashion Show">
     </a>
   </figure>
+
 </div>
 
 
