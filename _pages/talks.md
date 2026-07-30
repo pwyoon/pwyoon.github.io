@@ -27,5 +27,5 @@ work from Polymath Jr. 2025.
 
 ### Finding Equations for Parametrized Curves of an Affine Variety
 
-CUNY Directed Reading Program Presentation, The Graduate Center, CUNY,
-New York, NY, May 2025.
+**Poster presentation.** CUNY Directed Reading Program, The Graduate
+Center, CUNY, New York, NY, May 2025.
