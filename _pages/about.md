@@ -16,10 +16,10 @@ My primary research interests are in commutative and
 homological algebra, especially monomial ideals, Betti numbers, and
 combinatorial and topological methods in algebra. I am also interested in noncommutative algebra and combinatorics on words, as well as algebraic combinatorics and representation-theoretic aspects of solvable lattice models. My recent joint work with Noah Ripke on
 Betti numbers of monomial ideals appeared in the *Journal of Pure and
-Applied Algebra*. More information is available on my
+Applied Algebra*. At Hunter College, I am also engaged in ongoing joint research with Be’eri Greenfeld on growth phenomena in associative and monomial algebras and their connections with combinatorics on words. Our results are being developed into a manuscript. More information is available on my
 [Research](/research/) page.
 
-Outside of academics, I like to spend my free time hiking, running, playing board games, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
+Outside of academics, I like to spend my free time hiking, running, playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
 
 E-mail: phillip.yoon58@login.cuny.edu\
 Pronouns: he/him
