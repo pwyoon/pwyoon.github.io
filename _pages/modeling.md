@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-Selected runway work and digitals.
+How in the world did I get to model? That's a long story! But in the meantime, enjoy this selection of runway work and digitals :)
 
 ## Parsons BFA Fashion Show — Class of 2026 Graduation
 
@@ -23,10 +23,10 @@ Selected runway work and digitals.
   </div>
 
   <figure>
-    <a href="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}"
-        alt="Phillip Yoon at the Parsons BFA Fashion Show"
+        src="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}"
+        alt="Phillip Yoon walking in the Parsons BFA Fashion Show"
         loading="lazy">
     </a>
   </figure>
@@ -37,19 +37,19 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw26/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw26/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw26/01.jpg' | relative_url }}"
-        alt="Phillip Yoon walking for Jack Sivan FW26"
+        src="{{ '/images/modeling/jack-sivan-fw26/01.webp' | relative_url }}"
+        alt="Phillip Yoon walking for Jack Sivan FW26, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw26/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw26/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw26/02.jpg' | relative_url }}"
-        alt="Phillip Yoon wearing Jack Sivan FW26"
+        src="{{ '/images/modeling/jack-sivan-fw26/02.webp' | relative_url }}"
+        alt="Phillip Yoon walking for Jack Sivan FW26, look two"
         loading="lazy">
     </a>
   </figure>
@@ -63,7 +63,7 @@ Selected runway work and digitals.
     <a href="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}">
       <img
         src="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}"
-        alt="Phillip Yoon walking for Stockbridge SS26"
+        alt="Phillip Yoon wearing Stockbridge SS26, look one"
         loading="lazy">
     </a>
   </figure>
@@ -72,7 +72,7 @@ Selected runway work and digitals.
     <a href="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}">
       <img
         src="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}"
-        alt="Phillip Yoon wearing Stockbridge SS26"
+        alt="Phillip Yoon wearing Stockbridge SS26, look two"
         loading="lazy">
     </a>
   </figure>
@@ -83,19 +83,19 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-ss26/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-ss26/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-ss26/01.jpg' | relative_url }}"
-        alt="Phillip Yoon walking for Jack Sivan SS26"
+        src="{{ '/images/modeling/jack-sivan-ss26/01.webp' | relative_url }}"
+        alt="Phillip Yoon walking for Jack Sivan SS26, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-ss26/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-ss26/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-ss26/02.jpg' | relative_url }}"
-        alt="Phillip Yoon wearing Jack Sivan SS26"
+        src="{{ '/images/modeling/jack-sivan-ss26/02.webp' | relative_url }}"
+        alt="Phillip Yoon walking for Jack Sivan SS26, look two"
         loading="lazy">
     </a>
   </figure>
@@ -106,19 +106,19 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw25/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw25/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw25/01.jpg' | relative_url }}"
-        alt="Phillip Yoon walking for Jack Sivan FW25"
+        src="{{ '/images/modeling/jack-sivan-fw25/01.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Jack Sivan FW25, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw25/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw25/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw25/02.jpg' | relative_url }}"
-        alt="Phillip Yoon wearing Jack Sivan FW25"
+        src="{{ '/images/modeling/jack-sivan-fw25/02.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Jack Sivan FW25, look two"
         loading="lazy">
     </a>
   </figure>
@@ -129,19 +129,19 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw24/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw24/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw24/01.jpg' | relative_url }}"
-        alt="Phillip Yoon walking for Jack Sivan FW24"
+        src="{{ '/images/modeling/jack-sivan-fw24/01.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Jack Sivan FW24, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/jack-sivan-fw24/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/jack-sivan-fw24/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/jack-sivan-fw24/02.jpg' | relative_url }}"
-        alt="Phillip Yoon wearing Jack Sivan FW24"
+        src="{{ '/images/modeling/jack-sivan-fw24/02.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Jack Sivan FW24, look two"
         loading="lazy">
     </a>
   </figure>
@@ -152,19 +152,19 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss24/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss24/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss24/01.jpg' | relative_url }}"
-        alt="Phillip Yoon walking for Stockbridge SS24"
+        src="{{ '/images/modeling/stockbridge-ss24/01.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Stockbridge SS24, look one"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss24/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss24/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss24/02.jpg' | relative_url }}"
-        alt="Phillip Yoon wearing Stockbridge SS24"
+        src="{{ '/images/modeling/stockbridge-ss24/02.webp' | relative_url }}"
+        alt="Phillip Yoon wearing Stockbridge SS24, look two"
         loading="lazy">
     </a>
   </figure>
@@ -175,36 +175,36 @@ Selected runway work and digitals.
 
 <div class="modeling-grid modeling-grid--digitals">
   <figure>
-    <a href="{{ '/images/modeling/digitals/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/digitals/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/digitals/01.jpg' | relative_url }}"
+        src="{{ '/images/modeling/digitals/01.webp' | relative_url }}"
         alt="Phillip Yoon modeling digital, front view"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/digitals/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/digitals/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/digitals/02.jpg' | relative_url }}"
+        src="{{ '/images/modeling/digitals/02.webp' | relative_url }}"
         alt="Phillip Yoon modeling digital, profile view"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/digitals/03.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/digitals/03.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/digitals/03.jpg' | relative_url }}"
+        src="{{ '/images/modeling/digitals/03.webp' | relative_url }}"
         alt="Phillip Yoon modeling digital, three-quarter view"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/digitals/04.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/digitals/04.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/digitals/04.jpg' | relative_url }}"
+        src="{{ '/images/modeling/digitals/04.webp' | relative_url }}"
         alt="Phillip Yoon modeling digital, full-length view"
         loading="lazy">
     </a>
