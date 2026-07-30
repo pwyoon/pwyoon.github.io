@@ -21,8 +21,8 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
       poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
 
       <source
-        src="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}"
-        type="video/quicktime">
+        src="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.mp4' | relative_url }}"
+type="video/mp4">
 
       Your browser does not support this video.
       <a href="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}">
