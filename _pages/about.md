@@ -19,7 +19,7 @@ Betti numbers of monomial ideals appeared in the *Journal of Pure and
 Applied Algebra*. More information is available on my
 [Research](/research/) page.
 
-Outside of academics, I like to spend my free time hiking, running, playing board games, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/portfolio/). 
+Outside of academics, I like to spend my free time hiking, running, playing board games, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
 
 E-mail: phillip.yoon58@login.cuny.edu\
 Pronouns: he/him
