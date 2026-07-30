@@ -18,18 +18,23 @@ How I got to start modeling is a long story. In the meantime, please enjoy this 
       controls
       playsinline
       preload="metadata"
-      poster="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+      poster="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}">
+
       <source
-        src="{{ '/files/modeling/parsons-bfa-2026-walk.MOV' | relative_url }}"
+        src="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}"
         type="video/quicktime">
-      Your browser does not support embedded video.
+
+      Your browser does not support this video.
+      <a href="{{ '/images/modeling/parsons-bfa-2026/parsons-bfa-2026-walk.MOV' | relative_url }}">
+        Open the video directly.
+      </a>
     </video>
   </div>
 
   <figure>
-    <a href="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/parsons-bfa-2026/01.jpg' | relative_url }}"
+        src="{{ '/images/modeling/parsons-bfa-2026/01.webp' | relative_url }}"
         alt="Phillip Yoon walking in the Parsons BFA Fashion Show">
     </a>
   </figure>
