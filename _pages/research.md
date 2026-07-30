@@ -44,7 +44,15 @@ seven-variable case.
 
 ### Growth of algebras and combinatorics on words
 
-In ongoing joint work with Be’eri Greenfeld, I study growth phenomena in associative and monomial algebras and their connections with combinatorics on words. Our work concerns Gelfand–Kirillov dimension, hereditary languages, extension properties of infinite words, and the ways in which restrictions on allowed subwords determine the growth and ideal structure of the corresponding monomial algebras. The project uses combinatorial constructions of languages with prescribed growth properties. It has led to original results that we are developing into a manuscript. I presented part of this work in Hunter College’s student research colloquium in April 2026.
+In ongoing joint work with Be'eri Greenfeld, we study growth and ideal
+structure in associative and monomial algebras through combinatorics on
+words. We constructed a finitely generated monomial algebra of quadratic
+growth with no largest nilpotent ideal, giving a negative answer to a
+question of L'vov over an arbitrary field at the slowest possible
+quadratic growth threshold. Our construction uses an infinite word with carefully controlled
+subword complexity, together with arguments involving hereditary
+languages. We are developing these results into a joint manuscript. I presented part of this work at
+Hunter College's student research colloquium in April 2026.
 
 ### Solvable lattice models and quantum superalgebras
 
