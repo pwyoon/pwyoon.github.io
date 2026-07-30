@@ -12,11 +12,7 @@ of New York. I previously earned a B.A. in Mathematics and Philosophy from Johns
 secondary-school and college levels. More information is available on
 my [Teaching](/teaching/) page.
 
-My primary research interests are in commutative and
-homological algebra, especially monomial ideals, Betti numbers, and
-combinatorial and topological methods in algebra. I am also interested in noncommutative algebra and combinatorics on words, as well as algebraic combinatorics and representation-theoretic aspects of solvable lattice models. My recent joint work with Noah Ripke on
-Betti numbers of monomial ideals appeared in the *Journal of Pure and
-Applied Algebra*. At Hunter College, I am also engaged in ongoing joint research with Be’eri Greenfeld on growth phenomena in associative and monomial algebras and their connections with combinatorics on words. Our results are being developed into a manuscript. More information is available on my
+My research lies broadly in algebra and its connections with combinatorics and topology. My current work centers on two directions: commutative and homological algebra, particularly monomial ideals, Betti numbers, free resolutions, and Stanley–Reisner methods; and noncommutative algebra, particularly growth and ideal structure in associative and monomial algebras through combinatorics on words. My broader interests include algebraic combinatorics, solvable lattice models, and their connections with representation theory, building on my previous work in these areas. My recent joint work with Noah Ripke on the characteristic independence of Betti numbers of monomial ideals in five variables appeared in the *Journal of Pure and Applied Algebra*. More information is available on my
 [Research](/research/) page.
 
 Outside of academics, I like to spend my free time hiking, running, playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
