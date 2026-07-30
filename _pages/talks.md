@@ -24,8 +24,7 @@ Presentations, Hunter College, New York, NY, April 2026.
 
 ### Lattice Models for Quantum Superalgebras: Color and Supercolor
 
-Joint Mathematics Meetings, Washington, DC, January 2026. Collaborative
-work from Polymath Jr. 2025.
+Joint Mathematics Meetings, Washington, DC, January 2026. Presented jointly with Joey (Yizhou) Chen, Daniel Kumm, and Ioana Milea through Polymath Jr. 2025.
 
 [Slides](/files/presentations/jmm-2026-lattice-models.pdf)
 
