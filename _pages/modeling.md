@@ -60,18 +60,18 @@ Selected runway work and digitals.
 
 <div class="modeling-grid">
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/01.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/01.jpg' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/01.webp' | relative_url }}"
         alt="Phillip Yoon walking for Stockbridge SS26"
         loading="lazy">
     </a>
   </figure>
 
   <figure>
-    <a href="{{ '/images/modeling/stockbridge-ss26/02.jpg' | relative_url }}">
+    <a href="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}">
       <img
-        src="{{ '/images/modeling/stockbridge-ss26/02.jpg' | relative_url }}"
+        src="{{ '/images/modeling/stockbridge-ss26/02.webp' | relative_url }}"
         alt="Phillip Yoon wearing Stockbridge SS26"
         loading="lazy">
     </a>
