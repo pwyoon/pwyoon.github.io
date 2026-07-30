@@ -326,3 +326,28 @@
     }
   }
 }
+
+/* Larger author portrait on phones and tablets */
+@media screen and (max-width: 63.99em) {
+  .sidebar div.author__avatar {
+    width: 82px;
+    min-width: 82px;
+    padding-right: 10px;
+  }
+
+  .sidebar div.author__avatar > img {
+    display: block;
+    width: 72px;
+    max-width: 72px;
+    height: 90px;
+    object-fit: cover;
+    object-position: center 30%;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+  }
+
+  .sidebar .author__content {
+    padding-left: 5px;
+    padding-right: 10px;
+  }
+}
