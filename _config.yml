@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?query=Yoon%2C+P&searchtype=author"
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=NViYR_gAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-2674-3090"
