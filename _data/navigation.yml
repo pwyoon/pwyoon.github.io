@@ -20,6 +20,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Writing"
+    url: /writing/
+
   - title: "CV"
     url: /cv/
     
