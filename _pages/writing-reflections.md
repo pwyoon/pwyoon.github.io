@@ -5,8 +5,6 @@ permalink: /writing/reflections/
 author_profile: true
 ---
 
-[Writing](/writing/) / Reflections & Essays
-
 Reflections on mathematics, education, research, and personal experience.
 
 {% assign reflection_posts = site.categories.reflections %}
