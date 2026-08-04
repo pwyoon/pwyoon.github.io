@@ -5,8 +5,6 @@ permalink: /writing/mathematics/
 author_profile: true
 ---
 
-[Writing](/writing/) / Mathematics
-
 Expository mathematics, research-related notes, examples, and explanations.
 
 {% assign mathematics_posts = site.categories.mathematics %}
