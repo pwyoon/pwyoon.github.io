@@ -15,7 +15,7 @@ my [Teaching](/teaching/) page.
 My research lies broadly in algebra and its connections with combinatorics and topology. My current work centers on two directions: commutative and homological algebra, particularly monomial ideals, Betti numbers, free resolutions, and Stanley–Reisner ideals, and noncommutative algebra, particularly growth and ideal structure in associative and monomial algebras through combinatorics on words. My broader interests include algebraic combinatorics, solvable lattice models, and their connections with representation theory, building on my previous work in these areas. My recent joint work with Noah Ripke on the characteristic independence of Betti numbers of monomial ideals in five variables appeared in the *Journal of Pure and Applied Algebra*. More information is available on my
 [Research](/research/) page.
 
-Outside of academics, I like to spend my free time hiking, running, playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
+Outside of academics, I like to spend my free time hiking, running, [writing](/writing/), playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
 
 E-mail: phillip.yoon58@login.cuny.edu\
 Pronouns: he/him
