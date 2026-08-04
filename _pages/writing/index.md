@@ -6,7 +6,10 @@ permalink: /writing/
 author_profile: true
 ---
 
-Here I collect mathematical writing, expository notes, and some reflections and essays.
+## Earlier Writing
+
+Before starting this site, I wrote regularly on
+[Quora](https://www.quora.com/profile/Phillip-Yoon-2), where I was named a Quora Top Writer in 2018. 
 
 ## Mathematics
 
