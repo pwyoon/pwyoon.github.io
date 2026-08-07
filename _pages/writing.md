@@ -22,6 +22,8 @@ Writing about mathematics, education, and personal experience.
 Before starting this site, I wrote regularly on
 [Quora](https://www.quora.com/profile/Phillip-Yoon-2), where I was named a Quora Top Writer in 2018.
 
+I also wrote a few pieces for the [Johns Hopkins News-Letter](https://www.jhunewsletter.com/staff/phillip-yoon). 
+
 ## Recent Posts
 
 {% for post in site.posts limit:6 %}
