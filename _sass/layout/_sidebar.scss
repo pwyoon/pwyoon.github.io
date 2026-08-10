@@ -353,3 +353,19 @@ height: 105px;
     padding-right: 10px;
   }
 }
+
+/* Keep author sidebar visible while scrolling on desktop */
+@media screen and (min-width: 1024px) {
+  .sidebar.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(#{$masthead-height} + 10px);
+
+    -webkit-transform: none;
+    transform: none;
+
+    height: auto;
+    max-height: calc(100vh - #{$masthead-height} - 20px);
+    overflow-y: auto;
+  }
+}
