@@ -14,7 +14,7 @@ If you look closely at my CV, you will notice that there is an odd-looking entry
 
 > Northern Illinois University 2021–2022 Graduate (M.A.) coursework in philosophy, 18 credits (non-degree) DeKalb, IL
 
-It is odd looking because, first, I didn’t actually complete this program and, second, even though I didn’t complete it, I listed it as one of my ‘Education’ entries. I guess it is not necessarily a faux pas to list an incomplete degree in your CV, but some might find this puzzling and might have some questions when they look at this entry. What happened? Why did I quit midway? What was the motivation? (Also, who is Kierkaggard and why am I saying "Checkmate"?) 
+It is odd looking because, first, I didn’t actually complete this program and, second, even though I didn’t complete it, I listed it as one of my ‘Education’ entries. I guess it is not necessarily a faux pas to list an incomplete degree in your CV, but some might find this puzzling and might have some questions when they look at this entry. What happened? Why did I quit midway? What was the motivation? (Also, who is Kierkegaard and why am I saying "Checkmate"?) 
 
 ## Honors Algebra 
 
