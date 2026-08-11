@@ -13,7 +13,7 @@ Expository mathematics, research-related notes, examples, and explanations.
 
 ## Reflections & Essays
 
-Writing about mathematics, education, and personal experience.
+Writing about my personal experience with many different things: education, research, my life path, travel, etc. 
 
 [View reflections and essays](/writing/reflections/){: .btn .btn--primary}
 
