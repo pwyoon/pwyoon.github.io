@@ -1,6 +1,6 @@
 ---
 layout: single
-title: “Checkmate, Kierkegaard” 
+title: Checkmate, Kierkegaard
 date: 2026-08-10
 categories:
   - reflections
