@@ -5,7 +5,7 @@ permalink: /writing/reflections/
 author_profile: true
 ---
 
-Reflections on mathematics, education, research, and personal experience.
+Writing about my personal experience with many different things: education, research, my life path, travel, etc. 
 
 {% assign reflection_posts = site.categories.reflections %}
 
