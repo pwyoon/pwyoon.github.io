@@ -4,7 +4,7 @@ title: “Checkmate, Kierkegaard”
 date: 2026-08-10
 categories:
   - reflections
-excerpt: “In retrospect, I regret nothing.”
+excerpt: In retrospect, I regret nothing.
 author_profile: false
 comments: true
 mathjax: true
