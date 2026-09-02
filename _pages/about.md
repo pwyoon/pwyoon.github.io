@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.A. student in Mathematics at Hunter College, City University
-of New York. I previously earned a B.A. in Mathematics and Philosophy from Johns Hopkins University in 2021 and an M.S.Ed. from the University of Pennsylvania in 2024. Before and during my graduate studies, I taught mathematics at the
-secondary-school and college levels. More information is available on
-my [Teaching](/teaching/) page.
+I am an M.A. student in mathematics at Hunter College, CUNY. My current research lies primarily at the intersection of algebra and combinatorics, with particular interests in commutative and homological algebra, algebraic combinatorics, and noncommutative algebra. I earned a B.A. in Mathematics and Philosophy from Johns Hopkins University in 2021 and an M.S.Ed. from the University of Pennsylvania in 2024.
 
-My research lies broadly in algebra and its connections with combinatorics and topology. My current work centers on two directions: commutative and homological algebra, particularly monomial ideals, Betti numbers, free resolutions, and Stanley–Reisner ideals, and noncommutative algebra, particularly growth and ideal structure in associative and monomial algebras through combinatorics on words. My broader interests include algebraic combinatorics, solvable lattice models, and their connections with representation theory, building on my previous work in these areas. My recent joint work with Noah Ripke on the characteristic independence of Betti numbers of monomial ideals in five variables appeared in the *Journal of Pure and Applied Algebra*. More information is available on my
-[Research](/research/) page.
+My recent work with Noah Ripke, [Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables](https://doi.org/10.1016/j.jpaa.2026.108354), appeared in the *Journal of Pure and Applied Algebra*. I am currently working on related questions concerning characteristic dependence in higher numbers of variables, as well as growth phenomena in associative and monomial algebras. More information is available on my [Research](/research/) page.
+
+I have taught mathematics at the college, secondary-school, and middle-school levels. More information is available on
+my [Teaching](/teaching/) page.
 
 Outside of academics, I like to spend my free time hiking, running, [writing](/writing/), playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
 
