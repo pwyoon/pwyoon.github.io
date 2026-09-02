@@ -26,7 +26,7 @@ Five Variables.”
 
 ### Monomial ideals and Betti numbers
 
-During the ###[CSU Chico REU/RET in Mathematics](https://www.csuchico.edu/academics/college/natural-sciences/departments/mathematics-statistics/research-experience.shtml) Summer 2026, I worked under the supervision of [Dr. Guillermo Alesandroni](https://apps.csuchico.edu/directory/Employee/galesandroni) on the dependence and independence of Betti numbers of monomial ideals on
+During the [CSU Chico REU/RET in Mathematics](https://www.csuchico.edu/academics/college/natural-sciences/departments/mathematics-statistics/research-experience.shtml) Summer 2026, I worked under the supervision of [Dr. Guillermo Alesandroni](https://apps.csuchico.edu/directory/Employee/galesandroni) on the dependence and independence of Betti numbers of monomial ideals on
 the characteristic of the base field. With Noah Ripke, we proved that
 the multigraded, graded, and total Betti numbers of every monomial ideal
 in five variables are independent of the characteristic. Our approach
