@@ -26,9 +26,7 @@ Five Variables.”
 
 ### Monomial ideals and Betti numbers
 
-During the 2026 NSF REU/RET in Mathematics at California State
-University, Chico, I worked under the supervision of Dr. Guillermo
-Alesandroni on the dependence and independence of Betti numbers of monomial ideals on
+During the ###[CSU Chico REU/RET in Mathematics](https://www.csuchico.edu/academics/college/natural-sciences/departments/mathematics-statistics/research-experience.shtml) Summer 2026, I worked under the supervision of [Dr. Guillermo Alesandroni](https://apps.csuchico.edu/directory/Employee/galesandroni) on the dependence and independence of Betti numbers of monomial ideals on
 the characteristic of the base field. With Noah Ripke, we proved that
 the multigraded, graded, and total Betti numbers of every monomial ideal
 in five variables are independent of the characteristic. Our approach
@@ -44,7 +42,7 @@ seven-variable case.
 
 ### Growth of algebras and combinatorics on words
 
-In ongoing joint work with Dr. Be'eri Greenfeld, we study growth and ideal
+In ongoing joint work with [Dr. Be'eri Greenfeld](https://sites.google.com/view/beeri-greenfeld), we study growth and ideal
 structure in associative and monomial algebras through combinatorics on
 words. We constructed a finitely generated monomial algebra of quadratic
 growth with no largest nilpotent ideal, giving a negative answer to a
@@ -56,9 +54,9 @@ Hunter College's student research colloquium in April 2026.
 
 ### Solvable lattice models and quantum superalgebras
 
-Through Polymath Jr., I participated in collaborative research on
+Through [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu), I participated in collaborative research on
 solvable lattice models related to quantum superalgebras under the
-mentorship of Dr. Ben Brubaker. Our project studied partition functions of
+mentorship of [Dr. Benjamin Brubaker](https://cse.umn.edu/math/benjamin-brubaker). Our project studied partition functions of
 colored and supercolored lattice models and the local recurrence
 relations arising from Yang--Baxter-type equations. I worked on
 rank-three examples, vanishing conditions related to Bruhat order, and
