@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I hold an M.S.Ed. from the University of Pennsylvania and have taught
-mathematics at the college, secondary-school, and middle-school levels.
+mathematics at the college and K-12 levels.
 
 ## College Teaching
 
