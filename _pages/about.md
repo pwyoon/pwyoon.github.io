@@ -11,7 +11,7 @@ I am an M.A. student in mathematics at Hunter College, CUNY. My current research
 
 My recent work with Noah Ripke, [Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables](https://doi.org/10.1016/j.jpaa.2026.108354), appeared in the *Journal of Pure and Applied Algebra*. I am currently working on related questions concerning characteristic dependence in higher numbers of variables, as well as growth phenomena in associative and monomial algebras. More information is available on my [Research](/research/) page.
 
-I have taught mathematics at the college, secondary-school, and middle-school levels. More information is available on
+I have taught mathematics at the college and K-12 levels. More information is available on
 my [Teaching](/teaching/) page.
 
 Outside of academics, I like to spend my free time hiking, running, [writing](/writing/), playing board games, going to concerts, looking through eBay for clothes, hunting for the best ramen or pho restaurants, or [modeling](/modeling/). 
