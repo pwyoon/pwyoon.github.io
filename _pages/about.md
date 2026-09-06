@@ -17,7 +17,8 @@ I am an M.A. student in mathematics at Hunter College, CUNY. My research lies pr
 
 We prove that the multigraded, graded, and total Betti numbers of every monomial ideal in five variables are independent of the characteristic of the base field.
 
-[Journal](https://doi.org/10.1016/j.jpaa.2026.108354) | [arXiv](https://arxiv.org/abs/2607.10639) 
+[Journal](https://doi.org/10.1016/j.jpaa.2026.108354) |
+[arXiv](https://arxiv.org/abs/2607.10639) 
 
 
 ## Current Research
