@@ -12,7 +12,7 @@ I am an M.A. student in mathematics at Hunter College, CUNY. My research lies pr
 ## Selected Publication
 
 **Noah Ripke and Phillip Yoon.**  
-[“Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables.”](https://doi.org/10.1016/j.jpaa.2026.108354)  
+“Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables."
 *Journal of Pure and Applied Algebra* **230** (2026), 108354.
 
 We prove that the multigraded, graded, and total Betti numbers of every monomial ideal in five variables are independent of the characteristic of the base field.
