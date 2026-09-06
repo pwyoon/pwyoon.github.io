@@ -9,7 +9,7 @@ redirect_from:
 
 I am an M.A. student in mathematics at Hunter College, CUNY. My research lies primarily in algebra and combinatorics, with particular interests in commutative and homological algebra, monomial ideals and Betti numbers, noncommutative algebra, and combinatorics on words.
 
-[Research](/research/) | [CV](/cv/) | [Talks](/talks/) | [Teaching](/teaching/)
+[Research](/research/) | [Talks](/talks/) | [Teaching](/teaching/) | [CV](/cv/) 
 
 ## Selected Publication
 
