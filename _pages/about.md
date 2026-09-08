@@ -28,6 +28,7 @@ I am currently investigating related questions concerning characteristic depende
 ## Recent and Upcoming Talks
 
 - **September 26, 2026:** Invited talk, Route 81 Conference on Commutative Algebra and Algebraic Geometry, Syracuse University.
+- **October 3, 2026:** Contributed talk, AMS Fall Eastern Sectional Meeting, George Washington University.
 - **November 13, 2026:** CUNY Commutative Algebra and Algebraic Geometry Seminar, The Graduate Center.
 
 See [Research Talks and Presentations](/talks/) for additional presentations and slides.
