@@ -11,7 +11,7 @@ author_profile: true
 
 **(Upcoming) Invited talk.** [Route 81 Conference on Commutative Algebra and Algebraic Geometry](https://sites.google.com/view/route81conference2026/home), Syracuse University, Syracuse, NY, September 26, 2026.
 
-**(Upcoming) Contributed talk.** [AMS Fall Eastern Sectional Meeting](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61526) George Washington University, Washington, DC, October 3, 2026.  
+**(Upcoming) Contributed talk.** [AMS Fall Eastern Sectional Meeting](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61526), George Washington University, Washington, DC, October 3, 2026.  
 
 **(Upcoming) Seminar talk.** [CUNY Commutative Algebra and Algebraic Geometry Seminar](https://openlab.citytech.cuny.edu/caag/), The Graduate Center, CUNY, New York, NY, November 13, 2026.
 
