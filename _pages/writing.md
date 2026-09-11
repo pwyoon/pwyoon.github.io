@@ -9,20 +9,8 @@ I write about mathematics, research, education, and other topics that interest m
 
 ## Recent Posts
 
-{% for post in site.posts limit:6 %}
-
-**[{{ post.title }}]({{ post.url | relative_url }})**
-
-<p class="page__meta">
-<i class="fa fa-calendar" aria-hidden="true"></i>
-{{ post.date | date: "%B %-d, %Y" }}
-&nbsp;·&nbsp;
-<i class="fa fa-clock" aria-hidden="true"></i>
-{% include read-time.html %}
-</p>
-
-{{ post.excerpt | strip_html | strip }}
-
+{% for post in site.posts limit:4 %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## Browse by Topic
