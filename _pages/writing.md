@@ -5,12 +5,6 @@ permalink: /writing/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Writing"
-permalink: /writing/
-author_profile: true
----
 
 I write about mathematics, research, education, and other topics that interest me.
 
@@ -36,7 +30,7 @@ Writing about education, research, my life path, travel, and other experiences.
 ## Earlier Writing
 
 Before starting this site, I wrote regularly on
-[Quora](https://www.quora.com/), where I was named a Quora Top Writer in 2018.
+[Quora](https://www.quora.com/profile/Phillip-Yoon-2), where I was named a Quora Top Writer in 2018.
 
 I also wrote a few pieces for the
-[Johns Hopkins News-Letter](https://www.jhunewsletter.com/).
+[Johns Hopkins News-Letter](https://www.jhunewsletter.com/staff/phillip-yoon).
