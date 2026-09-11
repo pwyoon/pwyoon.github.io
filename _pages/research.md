@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
 
 My primary interests are in commutative and homological algebra,
 especially monomial ideals, Betti numbers, and combinatorial and
@@ -22,7 +21,7 @@ Five Variables.”
 [Journal](https://doi.org/10.1016/j.jpaa.2026.108354) |
 [arXiv](https://arxiv.org/abs/2607.10639) 
 
-## Current and Recent Research
+## Current Research
 
 ### Monomial ideals and Betti numbers
 
@@ -51,6 +50,8 @@ quadratic growth threshold. Our construction uses an infinite word with carefull
 subword complexity, together with arguments involving hereditary
 languages. We are developing these results into a joint manuscript. I presented part of this work at
 Hunter College's student research colloquium in April 2026.
+
+## Previous Project
 
 ### Solvable lattice models and quantum superalgebras
 
