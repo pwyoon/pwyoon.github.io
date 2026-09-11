@@ -5,17 +5,23 @@ permalink: /writing/
 author_profile: true
 ---
 
-
 I write about mathematics, research, education, and other topics that interest me.
 
 ## Recent Posts
 
 {% for post in site.posts limit:6 %}
 
-**[{{ post.title }}]({{ post.url | relative_url }})**  
-*{{ post.date | date: "%B %-d, %Y" }}*
+**[{{ post.title }}]({{ post.url | relative_url }})**
 
-{{ post.excerpt | strip_html | truncate: 220 }}
+<p class="page__meta">
+<i class="fa fa-calendar" aria-hidden="true"></i>
+{{ post.date | date: "%B %-d, %Y" }}
+&nbsp;·&nbsp;
+<i class="fa fa-clock" aria-hidden="true"></i>
+{% include read-time.html %}
+</p>
+
+{{ post.excerpt | strip_html | strip }}
 
 {% endfor %}
 
