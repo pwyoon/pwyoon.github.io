@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-seo_title: "Phillip Yoon | Mathematics"
+seo_title: "Phillip Yoon"
 author_profile: true
 redirect_from:
   - /about/
