@@ -4,7 +4,7 @@ title: My first citation! … from AI.
 date: 2026-09-22
 categories:
   - reflections
-excerpt: I received my first citation on my paper only a month later publication.
+excerpt: I received my first citation on my paper only a month after its publication.
 author_profile: false
 comments: true
 mathjax: true
