@@ -22,7 +22,10 @@ George Washington University, Washington, DC — October 3, 2026.
 The Graduate Center, CUNY, New York, NY — November 13, 2026.
 
 Joint work with Noah Ripke.  
+
 [Paper](https://doi.org/10.1016/j.jpaa.2026.108354)
+
+[Slides](/files/presentations/route-81-conference-slides.pdf)
 
 ## 2026
 
