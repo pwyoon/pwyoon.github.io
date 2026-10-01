@@ -5,11 +5,7 @@ author_profile: true
 ---
 
 
-My primary interests are in commutative and homological algebra,
-especially monomial ideals, Betti numbers, and combinatorial and
-topological methods in algebra. I am also interested in noncommutative
-algebra, algebraic combinatorics, representation theory, and
-combinatorics on words.
+My primary interests are in commutative algebra, especially the homological and combinatorial aspects of monomial ideals, free resolutions, and Betti numbers, together with topological methods in algebra. I am also interested in noncommutative algebra, algebraic combinatorics, representation theory, and combinatorics on words.
 
 ## Publication
 
