@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Phillip Yoon, an M.A. student in mathematics at Hunter College, CUNY. My current research is in algebra and combinatorics, with interests in interactions among algebra, combinatorics, and topology.
+I am Phillip Yoon, an M.A. student in mathematics at Hunter College, CUNY. My research interests are in commutative algebra, particularly homological and combinatorial aspects of free resolutions and related invariants; algebraic combinatorics; and noncommutative algebra. I am especially interested in interactions among algebra, combinatorics, topology, and computation.
 
 ## Selected Publication
 
@@ -24,13 +24,16 @@ We prove that the multigraded, graded, and total Betti numbers of every monomial
 
 ## Current Research
 
-I am currently investigating related questions concerning characteristic dependence of Betti numbers in higher numbers of variables. I am also working with Be'eri Greenfeld on growth and ideal structure in associative and monomial algebras through combinatorics on words. More information is available on my [Research](/research/) page.
+My main current project continues my work on characteristic dependence of Betti numbers of monomial ideals. I am studying characteristic-specific threshold questions through their connections with torsion in simplicial homology and Stanley--Reisner theory, with broader interests in how combinatorial and topological structure governs free resolutions and related homological invariants.
+
+I am also working with Be'eri Greenfeld on growth and ideal structure in associative and monomial algebras through combinatorics on words. More information is available on my [Research](/research/) page.
 
 ## Recent and Upcoming Talks
 
 - **September 26, 2026:** Invited talk, Route 81 Conference on Commutative Algebra and Algebraic Geometry, Syracuse University.
 - **October 3, 2026:** Contributed talk, AMS Fall Eastern Sectional Meeting, George Washington University.
-- **November 13, 2026:** CUNY Commutative Algebra and Algebraic Geometry Seminar, The Graduate Center.
+- **November 13, 2026:** Invited seminar talk, CUNY Commutative Algebra and Algebraic Geometry Seminar, The Graduate Center.
+- **January 2027:** Invited talk, AMS Special Session on Advances in Commutative Algebra and Connections with Geometry and Combinatorics, Joint Mathematics Meetings, Chicago.
 
 See [Research Talks and Presentations](/talks/) for additional presentations and slides.
 
