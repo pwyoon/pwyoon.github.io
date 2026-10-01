@@ -5,31 +5,34 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming
+## 2027
 
-**Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables**
+### Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables
 
-**Invited talk.**
-[Route 81 Conference on Commutative Algebra and Algebraic Geometry](https://sites.google.com/view/route81conference2026/home),
-Syracuse University, Syracuse, NY — September 26, 2026.
+(Upcoming) **Invited talk.** [AMS Special Session on Advances in Commutative Algebra and Connections with Geometry and Combinatorics](https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Session/17373), Joint Mathematics Meetings, Chicago, IL, January 2027.
 
-**Contributed talk.**
-[AMS Fall Eastern Sectional Meeting](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61526),
-George Washington University, Washington, DC — October 3, 2026.
+Joint work with Noah Ripke.
 
-**Seminar talk.**
-[CUNY Commutative Algebra and Algebraic Geometry Seminar](https://openlab.citytech.cuny.edu/caag/),
-The Graduate Center, CUNY, New York, NY — November 13, 2026.
+[Paper](https://doi.org/10.1016/j.jpaa.2026.108354)
 
-Joint work with Noah Ripke.  
+## 2026
+
+### Characteristic Independence of Betti Numbers of Monomial Ideals in Five Variables
+
+**Invited talk.** [Route 81 Conference on Commutative Algebra and Algebraic Geometry](https://sites.google.com/view/route81conference2026/home), Syracuse University, Syracuse, NY, September 26, 2026.
+
+**Contributed talk.** [AMS Fall Eastern Sectional Meeting](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61526), George Washington University, Washington, DC, October 3, 2026.
+
+(Upcoming) **Invited seminar talk.** [CUNY Commutative Algebra and Algebraic Geometry Seminar](https://openlab.citytech.cuny.edu/caag/), The Graduate Center, CUNY, New York, NY, November 13, 2026.
+
+Joint work with Noah Ripke.
 
 [Paper](https://doi.org/10.1016/j.jpaa.2026.108354)
 
 [Slides](/files/presentations/route-81-conference-slides.pdf)
 
-## 2026
 
-**What Does Small Growth Mean for Algebras?**
+### What Does Small Growth Mean for Algebras?
 
 [Hunter Mathematics and Statistics Colloquium: Student Research Presentations](https://sites.google.com/view/huntercollegemathcolloquium/home),
 Hunter College, New York, NY — April 2026.
@@ -39,7 +42,7 @@ in associative and monomial algebras.
 
 [Slides](/files/presentations/hunter-2026-small-growth.pdf)
 
-**Lattice Models for Quantum Superalgebras: Color and Supercolor**
+### Lattice Models for Quantum Superalgebras: Color and Supercolor
 
 [Joint Mathematics Meetings](https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/56709),
 Washington, DC — January 2026.
@@ -51,7 +54,7 @@ through Polymath Jr. 2025.
 
 ## 2025
 
-**Finding Equations for Parametrized Curves of an Affine Variety**
+### Finding Equations for Parametrized Curves of an Affine Variety
 
 **Poster presentation.**
 [CUNY Directed Reading Program](https://sites.google.com/view/cunydrp/past/2025?authuser=0),
